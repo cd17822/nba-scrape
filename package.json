@@ -1,0 +1,13 @@
+{
+  "name": "nba-scrape",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "coffee-script": "^1.9.1",
+    "express": "^4.12.3",
+    "jade": "^1.9.2",
+    "mongoose": "^4.0.1",
+    "rekuire": "^0.1.9",
+    "request": "latest"
+  }
+}
